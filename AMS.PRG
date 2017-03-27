@@ -16,7 +16,6 @@
 *-    EVR   06.06.2006  password lenght is 8 or up
 *------------------------------------------------------------------------------
 
-#include "colf.ch"
 #include "inkey.ch"
 
 #define gc_version ".00061"
